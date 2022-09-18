@@ -9,9 +9,9 @@
 [![contributors](https://img.shields.io/badge/dynamic/json?color=green&logo=github&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D7576285342)](https://ation126.github.io/)
 [![license](https://img.shields.io/badge/license-MIT-green?logo=legal)](https://github.com/ation126/jupyter/blob/main/LICENSE)
 
-[![version](https://img.shields.io/badge/version-1.2.3-blue)](https://ation126.github.io/bak/worth.html)
-[![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)](https://ation126.github.io/bak/worth.html)
-[![content](https://img.shields.io/badge/content-KLine%20%20Account%20-orange)](https://ation126.github.io/bak/worth.html)
+[![version](https://img.shields.io/badge/version-1.2.3-blue)](https://ation126.github.io)
+[![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)](https://ation126.github.io)
+[![content](https://img.shields.io/badge/content-KLine%20%20Account%20-orange)](https://ation126.github.io)
 
 
 
